@@ -1,0 +1,5 @@
+public void onCreate(Bundle savedInstence){
+  
+  Toast.makeText("Hello Github!",getApplicationContext(),Toast.LENGTH_LONG).show();
+
+}
